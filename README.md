@@ -66,7 +66,7 @@ Actualmente estoy buscando una empresa donde realizar mis **prácticas profesion
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yailinpvdev&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yailinpvdev\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yailinpvdev&layout=compact&theme=tokyonight)
 
 
 ## 📫 Contacto
