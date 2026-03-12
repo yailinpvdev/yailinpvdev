@@ -17,10 +17,16 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 
 ## 🚀 Tecnologías y herramientas
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-</p>
 
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-Control%20Version-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ## 📂 Proyectos que estoy desarrollando
