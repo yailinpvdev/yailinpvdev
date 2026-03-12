@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hola 👋 Soy Yailín Pérez
 
-<!--
-**yailinpvdev/yailinpvdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Programación de Software – SENA**
+🚀 Apasionada por el **desarrollo web moderno y las interfaces interactivas**.
 
-Here are some ideas to get you started:
+Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **Frontend, consumo de APIs y desarrollo fullstack básico**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+HTML
+CSS
+JavaScript
+React
+Node.js
+Git
+GitHub
+
+---
+
+## 📂 Proyectos que estoy desarrollando
+
+🔹 Portfolio Web Profesional
+🔹 Dashboard con gráficas
+🔹 Gestor de tareas CRUD
+🔹 Aplicación que consume APIs
+🔹 Landing page moderna
+🔹 Kanban board estilo Trello
+
+---
+
+## 🎯 Objetivo profesional
+
+Actualmente estoy buscando una empresa donde realizar mis **prácticas profesionales del SENA** y seguir creciendo como desarrolladora de software trabajando en proyectos reales.
+
+---
+
+## 📫 Contacto
+
+📍 Santander, Colombia
+📧 Email: yailinpv.dev@gmail.com 
+💼 LinkedIn: www.linkedin.com/in/yailin-perezv
+
+---
+
+⭐ Gracias por visitar mi perfil
