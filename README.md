@@ -25,12 +25,17 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 
 ## 📂 Proyectos que estoy desarrollando
 
-🔹 Portfolio Web Profesional
-🔹 Dashboard con gráficas
-🔹 Gestor de tareas CRUD
-🔹 Aplicación que consume APIs
-🔹 Landing page moderna
-🔹 Kanban board estilo Trello
+## 💻 Proyectos destacados
+
+🚧 Actualmente estoy construyendo proyectos para demostrar mis habilidades en desarrollo web moderno.  
+Próximamente estarán disponibles aquí.
+
+- Portfolio Web Profesional
+- Dashboard con visualización de datos
+- Aplicación CRUD con base de datos
+- Aplicación que consume APIs externas
+- Kanban board estilo Trello
+- Landing page moderna
 
 ---
 
