@@ -62,3 +62,7 @@ Actualmente estoy buscando una empresa donde realizar mis **prácticas profesion
 ---
 
 ⭐ Gracias por visitar mi perfil
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/yailinpvdev/yailinpvdev/blob/output/github-contribution-grid-snake.svg)
