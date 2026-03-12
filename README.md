@@ -69,7 +69,7 @@ Actualmente estoy buscando una empresa donde realizar mis **prácticas profesion
 
 ---
 
-⭐ Gracias por visitar mi perfil
+⭐ **Gracias por visitar mi perfil**
 
 ## 🐍 Contribution Snake
 
