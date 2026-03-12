@@ -9,13 +9,9 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 
 ## 🚀 Tecnologías y herramientas
 
-HTML
-CSS
-JavaScript
-React
-Node.js
-Git
-GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+</p>
 
 ---
 
