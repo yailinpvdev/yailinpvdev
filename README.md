@@ -25,17 +25,25 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 
 ## 📂 Proyectos que estoy desarrollando
 
-## 💻 Proyectos destacados
+## 💼 Proyectos destacados
 
-🚧 Actualmente estoy construyendo proyectos para demostrar mis habilidades en desarrollo web moderno.  
-Próximamente estarán disponibles aquí.
+🔹 **Portfolio Web Profesional**  
+Repositorio: https://github.com/yailinpvdev/portfolio
 
-- Portfolio Web Profesional
-- Dashboard con visualización de datos
-- Aplicación CRUD con base de datos
-- Aplicación que consume APIs externas
-- Kanban board estilo Trello
-- Landing page moderna
+🔹 **Dashboard con visualización de datos**  
+Repositorio: https://github.com/yailinpvdev/dashboard
+
+🔹 **Aplicación CRUD con base de datos**  
+Repositorio: https://github.com/yailinpvdev/crud-app
+
+🔹 **App que consume APIs externas**  
+Repositorio: https://github.com/yailinpvdev/api-app
+
+🔹 **Kanban board estilo Trello**  
+Repositorio: https://github.com/yailinpvdev/kanban
+
+🔹 **Landing page moderna**  
+Repositorio: https://github.com/yailinpvdev/landing-page
 
 ---
 
