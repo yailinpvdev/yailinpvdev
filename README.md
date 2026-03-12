@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=200&section=header&text=Yailín%20Pérez%20Developer&fontSize=40&fontColor=ffffff"/>
+</p>
+
 # Hola 👋 Soy Yailín Pérez
 
 💻 Estudiante de **Programación de Software – SENA**
