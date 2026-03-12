@@ -32,6 +32,14 @@ Actualmente estoy buscando una empresa donde realizar mis **prácticas profesion
 
 ---
 
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yailinpvdev\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yailinpvdev\&layout=compact\&theme=tokyonight)
+
+
 ## 📫 Contacto
 
 📍 Santander, Colombia
