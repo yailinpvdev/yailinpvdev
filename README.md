@@ -72,6 +72,13 @@ Repositorio: https://github.com/yailinpvdev/kanban
 🔹 **Landing page moderna**  
 Repositorio: https://github.com/yailinpvdev/landing-page
 
+◆ Agro Data Manager
+
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![SQL](https://img.shields.io/badge/SQL-Queries-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
+Repositorio: https://github.com/yailinpvdev/agro-data-manager
 ---
 
 ## 🎯 Objetivo profesional
