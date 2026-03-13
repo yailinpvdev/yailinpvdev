@@ -60,17 +60,26 @@ https://github.com/yailinpvdev/portfolio
 🔹 **Dashboard con visualización de datos**  
 Repositorio: https://github.com/yailinpvdev/dashboard
 
+---
 🔹 **Aplicación CRUD con base de datos**  
 Repositorio: https://github.com/yailinpvdev/crud-app
+
+---
 
 🔹 **App que consume APIs externas**  
 Repositorio: https://github.com/yailinpvdev/api-app
 
+---
+
 🔹 **Kanban board estilo Trello**  
 Repositorio: https://github.com/yailinpvdev/kanban
 
+---
+
 🔹 **Landing page moderna**  
 Repositorio: https://github.com/yailinpvdev/landing-page
+
+---
 
 ◆ Agro Data Manager  
 
