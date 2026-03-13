@@ -33,13 +33,24 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 
 ## 💼 Proyectos destacados
 
-💼 Proyectos destacados
+### 💎 Portfolio Web Profesional
 
-🔹 Portfolio Web Profesional
+Portafolio personal donde presento mis proyectos, tecnologías y habilidades como desarrolladora web en formación.
 
-🌐 Sitio web: https://yailinpvdev.github.io/portfolio/
+🌐 **Sitio web:**  
+https://yailinpvdev.github.io/portfolio/
 
-📦 Repositorio: https://github.com/yailinpvdev/portfolio
+📦 **Repositorio:**  
+https://github.com/yailinpvdev/portfolio
+
+#### 🧰 Tecnologías utilizadas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 🔹 Dashboard con visualización de datos
 Repositorio: https://github.com/yailinpvdev/dashboard
