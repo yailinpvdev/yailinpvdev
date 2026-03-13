@@ -33,10 +33,15 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 
 ## 💼 Proyectos destacados
 
-🔹 **Portfolio Web Profesional**  
-Repositorio: https://github.com/yailinpvdev/portfolio
+💼 Proyectos destacados
 
-🔹 **Dashboard con visualización de datos**  
+🔹 Portfolio Web Profesional
+
+🌐 Sitio web: https://yailinpvdev.github.io/portfolio/
+
+📦 Repositorio: https://github.com/yailinpvdev/portfolio
+
+🔹 Dashboard con visualización de datos
 Repositorio: https://github.com/yailinpvdev/dashboard
 
 🔹 **Aplicación CRUD con base de datos**  
