@@ -29,10 +29,6 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-## 📂 Proyectos que estoy desarrollando
-
----
-
 ## 💎 Portfolio Web Profesional
 
 Portafolio personal donde presento mis proyectos, tecnologías y habilidades como desarrolladora web en formación.
