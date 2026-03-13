@@ -33,9 +33,7 @@ Actualmente estoy desarrollando proyectos para fortalecer mis habilidades en **F
 
 ---
 
-## 💎 Proyecto principal
-
-### Portfolio Web Profesional
+## 💎 Portfolio Web Profesional
 
 Portafolio personal donde presento mis proyectos, tecnologías y habilidades como desarrolladora web en formación.
 
