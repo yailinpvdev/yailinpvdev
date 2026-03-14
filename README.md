@@ -57,32 +57,37 @@ https://github.com/yailinpvdev/portfolio
 
 ## 📂 Otros proyectos
 
-🔹 **Dashboard con visualización de datos**  
-Repositorio: https://github.com/yailinpvdev/dashboard
+
+### 📊 Climate Data Analytics Dashboard
+
+Dashboard interactivo desarrollado con React que visualiza datos climáticos en tiempo real usando APIs externas y gráficas dinámicas.
+
+Repositorio:
+https://github.com/yailinpvdev/climate-data-analytics-dashboard
+
+Tecnologías utilizadas:
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Recharts](https://img.shields.io/badge/Recharts-Data%20Visualization-blue?style=flat)
+![API](https://img.shields.io/badge/API-OpenMeteo-green?style=flat)
 ---
 
-🔹 **Aplicación CRUD con base de datos**  
-Repositorio: https://github.com/yailinpvdev/crud-app
----
+### 🌾 Agro Data Manager
 
-🔹 **App que consume APIs externas**  
-Repositorio: https://github.com/yailinpvdev/api-app
----
+Aplicación enfocada en gestión de datos agrícolas utilizando MySQL y consultas SQL para organizar y consultar información estructurada.
 
-🔹 **Kanban board estilo Trello**  
-Repositorio: https://github.com/yailinpvdev/kanban
----
+Repositorio:
+https://github.com/yailinpvdev/agro-data-manager
 
-🔹 **Landing page moderna**  
-Repositorio: https://github.com/yailinpvdev/landing-page
----
+Tecnologías utilizadas:
 
-🔹 **Agro Data Manager**  
-Repositorio: https://github.com/yailinpvdev/agro-data-manager
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-orange?style=flat)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat\&logo=github)
 
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![SQL](https://img.shields.io/badge/SQL-Queries-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 ---
 
