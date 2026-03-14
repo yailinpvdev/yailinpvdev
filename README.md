@@ -74,6 +74,18 @@ Tecnologías utilizadas:
 ![API](https://img.shields.io/badge/API-OpenMeteo-green?style=flat)
 ---
 
+🌱 **Farm Data Management System**
+
+API REST para gestionar datos agrícolas que implementa operaciones CRUD utilizando Node.js y Express. El proyecto demuestra una arquitectura backend organizada con rutas y controladores, además de pruebas de endpoints mediante solicitudes HTTP.
+
+Repositorio:  
+https://github.com/yailinpvdev/farm-data-management-system
+
+Tecnologías utilizadas:
+
+`Node.js` `Express.js` `JavaScript` `REST API` `Git` `GitHub`
+---
+
 ### 🌾 Agro Data Manager
 
 Aplicación enfocada en gestión de datos agrícolas utilizando MySQL y consultas SQL para organizar y consultar información estructurada.
